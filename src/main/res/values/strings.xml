@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">about me</string>
+    <string name="urbanus_martin">urbanus martin</string>
+    <string name="yellow_star">yellow_star</string>
+
+    <string name="bio_text">Hi, my name is Urbanus.
+       \n\n 1.	Explain the various functionalities applicable in the IoT layered architecture
+•	Application layer which contains the IoT applications
+•	Service support and application support has two capability groupings which include
+	Generic support capabilities which is used by different IoT applications such as data processing or data storage. The capabilities may also be invoked by specific support capabilities
+	Specific support capabilities which specifically cater for the requirements of diversified applications.
+•	The network layer provides the necessary transport and networking capabilities for routing IoT data processing places.
+•	The device layer e.g. sensors and actuators are used to collect the sensor readings for further processing.
+
+2.	What are the network services you expect in a small office/home office network?
+•	Ethernet switch installation.
+•	LAN cable installation.
+•	WIFI installation.
+•	Router installation.
+•	Printing.
+
+    </string>
+    <string name="what_is_your_nickname">what is your name</string>
+    <string name="button_btn">input_your_username</string>
+    <string name="done">Done</string>
+    <string name="nickname">Nickname</string>
+</resources>
