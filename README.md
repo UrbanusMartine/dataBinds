@@ -1,3 +1,1 @@
-# dataBinds
-learning how to data bind
- there we go
+my practice on data binding
